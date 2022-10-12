@@ -8,3 +8,5 @@ Agregamos mas lineas
 Me gusta, :avocado:, :taco:, :sushi:
 
 Otras cosas,  :mountain:,  :sunrise:, :airplane:
+
+Clase7 Modificaciones en Git Hub, :smile:
